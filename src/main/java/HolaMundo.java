@@ -6,5 +6,9 @@ public class HolaMundo {
         Scanner teclado = new Scanner(System.in);
         System.out.println("ingrese una opcion");
         String hola = teclado.next();
+        System.out.println("-----------------------");
+        System.out.println("        puto");
+        System.out.println("-----------------------");
+
     }
 }
